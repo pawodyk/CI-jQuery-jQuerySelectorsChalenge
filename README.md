@@ -42,9 +42,9 @@ We can also use the console to temporarily enable jQuery on pages that don’t a
 
 * Go to eir.ie Load jQuery and use it to:
   * find out the font-family used for paragraphs
-    * find out the font-family used for &lt;h2&gt;’s
-    * change the text of each paragraph (i.e. the &lt;p&gt; element) to your name
-* Go to Stack Overflow:
-  * Load jQuery and use it to change the following:
-    * background-color
-    * font-family for paragraph 
+  * find out the font-family used for &lt;h2&gt;’s
+  * change the text of each paragraph (i.e. the &lt;p&gt; element) to your name
+  
+* Go to Stack Overflow Load jQuery and use it to change the following:
+  * background-color
+  * font-family for paragraph
